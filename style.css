@@ -1,0 +1,69 @@
+.nav
+{
+    display: flex;
+    font-family: "Manrope", sans-serif;
+
+}
+.nav-img-vector
+{
+    margin-top: 50px;
+margin-left: 104px;
+
+}
+.nav-ashka
+{
+    margin-top: 53.5px;
+    margin-left: 207.5px;
+    text-decoration: none;
+    color: white;
+}
+.nav-a
+{
+    margin-top: 53.5px;
+    margin-left: 95px;
+    color: white;
+    text-decoration: none;
+}
+.nav-img-logo
+{
+    margin-left: 217px;
+    margin-top: 50px;
+    width: 30px;
+    height: 30px;
+
+}
+.nav-imgs-logo
+{
+    margin-left: 10.79px;
+    margin-top: 50px;
+    width: 30px;
+    height: 30px;
+
+}
+body
+{
+    background-color: black;
+}
+.main
+{
+    display: flex;
+    margin-left: 96px;
+}
+.main-content-img
+{
+    display: flex;
+    width: 588px;
+    height: 588px;
+    align-items: center;
+}
+.main-content-img-logo
+{
+    display: flex;
+    width: 588px;
+    height: 588px;
+    justify-content: center;
+}
+.main-content-block-suptitle
+{
+    color: white;
+}
